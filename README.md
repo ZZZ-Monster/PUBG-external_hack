@@ -1,4 +1,3 @@
 # PUBG-external_hack
-## April 28, 2022
+## 5/5/2022
 
-# Unzip and use，enjoy
